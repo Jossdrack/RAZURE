@@ -12069,23 +12069,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Joss/.nuget/packages/": {},
+    "/Users/hardymilalu/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Joss/Projects/R_AZURE/R_AZURE/R_AZURE.csproj",
+      "projectUniqueName": "/Users/hardymilalu/Projects/Jossdrack/RAZURE.git/R_AZURE/R_AZURE.csproj",
       "projectName": "R_AZURE",
-      "projectPath": "/Users/Joss/Projects/R_AZURE/R_AZURE/R_AZURE.csproj",
-      "packagesPath": "/Users/Joss/.nuget/packages/",
-      "outputPath": "/Users/Joss/Projects/R_AZURE/R_AZURE/obj/",
+      "projectPath": "/Users/hardymilalu/Projects/Jossdrack/RAZURE.git/R_AZURE/R_AZURE.csproj",
+      "packagesPath": "/Users/hardymilalu/.nuget/packages/",
+      "outputPath": "/Users/hardymilalu/Projects/Jossdrack/RAZURE.git/R_AZURE/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Joss/.config/NuGet/NuGet.Config"
+        "/Users/hardymilalu/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
