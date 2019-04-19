@@ -5,7 +5,6 @@
 /Users/Joss/Projects/R_AZURE/R_AZURE/bin/Debug/netcoreapp2.2/R_AZURE.pdb
 /Users/Joss/Projects/R_AZURE/R_AZURE/bin/Debug/netcoreapp2.2/R_AZURE.Views.dll
 /Users/Joss/Projects/R_AZURE/R_AZURE/bin/Debug/netcoreapp2.2/R_AZURE.Views.pdb
-/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csprojAssemblyReference.cache
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csproj.CoreCompileInputs.cache
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.RazorAssemblyInfo.cache
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.RazorAssemblyInfo.cs
@@ -14,11 +13,15 @@
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.TagHelpers.input.cache
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.TagHelpers.output.cache
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.RazorCoreGenerate.cache
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/User/Index.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Vol/Index.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.RazorTargetAssemblyInfo.cache
@@ -27,7 +30,4 @@
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.dll
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.pdb
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csproj.CopyComplete
-/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
-/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
-/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Vol/Index.g.cshtml.cs
-/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/User/Index.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csprojAssemblyReference.cache
