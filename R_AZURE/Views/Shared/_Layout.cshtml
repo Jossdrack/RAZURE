@@ -32,13 +32,24 @@
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                             </li>*@
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Vol" asp-action="Index">Consuter nos vols</a>
+                                <a class="btn btn-primary" asp-area="" asp-controller="Vol" asp-action="Index" role="button">Vols</a>
+
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                                <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Contact" role="button">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">Connexion</a>
+                                <a class="btn btn-primary" asp-area="" asp-controller="User" asp-action="Index" role="button">Inscription</a>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-action="Connexion" asp-controller="User" novalidate>
+                                    <div class="input-group">
+                                        <input type="email" class="form-control" id="email" placeholder="email@example.com">
+                                        <input type="password" class="form-control" id="password">
+                                        <input class="btn btn-primary" type="submit" value="Submit">
+                                    </div>
+
+                                </form>
                             </li>
 
 
