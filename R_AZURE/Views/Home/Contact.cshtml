@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+
+    <div class="container">
+
+        <form method="post" asp-action="Contacter" asp-controller="Home" novalidate>
+            @*<div asp-validation-summary="All"></div>*@
+
+            @*<div class="form-group">
+            <label asp-for="Nom"></label>
+            <input asp-for="Nom" class="form-control">
+            <span class="text-danger" asp-validation-for="Nom"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Objet"></label>
+            <input asp-for="Objet" class="form-control">
+            <span class="text-danger" asp-validation-for="Objet"></span>
+        </div>*@
+
+            <div class="form-group row">
+                <label for="nom" class="col-sm-2 col-form-label">Nom</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="nom" placeholder="Mon nom">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="objet" class="col-sm-2 col-form-label">Objet</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="objet" placeholder="Mon objet">
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="email" placeholder="email@example.com"/>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="nom" class="col-sm-2 col-form-label">Message</label>
+                <div class="col-sm-10">
+                    <textarea type="text" class="form-control" id="message"></textarea>
+                </div>
+            </div>
+
+
+
+            <button type="submit" class="btn btn-primary">Envoyer</button>
+        </form>
+
+     </div>
+
+</div>
