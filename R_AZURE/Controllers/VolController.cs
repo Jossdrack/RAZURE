@@ -15,12 +15,12 @@ namespace R_AZURE.Controllers
         {
             return View();
         }
-
+        //Afficher tout les vols
         public IActionResult Lire()
         {
             return View();
         }
-
+        //Afficher vol par id
         public IActionResult Lire(int id)
         {
             ViewBag.VolId = id;
