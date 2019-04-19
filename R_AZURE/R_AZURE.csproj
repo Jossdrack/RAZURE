@@ -16,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Vol\" />
+    <Folder Include="Views\User\" />
   </ItemGroup>
 </Project>

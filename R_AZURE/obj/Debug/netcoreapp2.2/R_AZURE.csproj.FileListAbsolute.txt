@@ -30,3 +30,4 @@
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Vol/Index.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/User/Index.g.cshtml.cs
