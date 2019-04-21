@@ -31,3 +31,5 @@
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.pdb
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csproj.CopyComplete
 /Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/R_AZURE.csprojAssemblyReference.cache
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Vol/VolDetail.g.cshtml.cs
+/Users/Joss/Projects/R_AZURE/R_AZURE/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LayoutVol.g.cshtml.cs

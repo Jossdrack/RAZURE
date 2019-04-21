@@ -1816,3 +1816,24 @@ label {
     padding: 0 0 0 20px;
     margin: 20px 0 20px;
 }
+
+
+
+/***********************************Layout-vol*********************/
+
+#div-vol {
+    width: 33%;
+    min-height:50%;
+    height: auto;
+    float:left;
+    border-right: solid 1px black;
+}
+div-vol-RenderBody {
+    width: 66%;
+    min-height: 50%;
+    height: auto;
+    float: left;
+}
+.stopfloat {
+    clear: both;
+}
