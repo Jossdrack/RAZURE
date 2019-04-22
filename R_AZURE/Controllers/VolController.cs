@@ -24,7 +24,7 @@ namespace R_AZURE.Controllers
         }
 
         //Afficher vol par id
-        [Route("VolDetail/{id}/{title}")]
+        //[Route("VolDetail/{id}/{title}")]
         public IActionResult VolDetail(int id,string title)
         {
             ViewBag.VolId = id;

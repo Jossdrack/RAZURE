@@ -6,14 +6,11 @@
 
 <div class="text-center">
     <h1><span class="badge badge-primary">@ViewData["Title"]</span></h1>
+
     <div id="div-vols">
-        <p>Vol numéro : @Model.numVol</p>
-        <p>Départ : @Model.depart</p>
-        <p>Arriver : @Model.arriver</p>
-        <p>Date Départ : @Model.heureDepart.ToString("MM/dd/yyyy")</p>
-        <p>Heure Départ : @Model.heureDepart.ToString("HH:mm")</p>
-        <p>Date Arrivée : @Model.heureArriver.ToString("MM/dd/yyyy")</p>
-        <p>Heure Arrivée : @Model.heureArriver.ToString("HH:mm")</p>
+        <p>Vol numéro : <a class="btn btn-primary" asp-area="" asp-controller="Vol" asp-action="VolDetail" role="button">@Model.numVol</a></p>
+        <p>Départ : @Model.depart  - Date Départ : @Model.heureDepart.ToString("MM/dd/yyyy") - Heure Départ : @Model.heureDepart.ToString("HH:mm")</p>
+        <p>Arriver : @Model.arriver - Date Arrivée : @Model.heureArriver.ToString("MM/dd/yyyy") - Heure Arrivée : @Model.heureArriver.ToString("HH:mm")</p>
         <p>Nombre de place restante :  @Model.place</p>
     </div>
 
